@@ -1,4 +1,7 @@
 lab-10-github-pqo0iimcz-xarizmatv1-1515s-projects.vercel.app
+<img width="2559" height="1599" alt="image" src="https://github.com/user-attachments/assets/fe8130e0-ecef-448d-be47-00135571959a" />
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
