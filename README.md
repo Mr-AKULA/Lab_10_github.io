@@ -1,3 +1,5 @@
+lab-10-github-pqo0iimcz-xarizmatv1-1515s-projects.vercel.app
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
